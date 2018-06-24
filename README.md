@@ -28,6 +28,12 @@ Om ervoor te zorgen dat er geen grove spraakmemo’s ontstaan, ben ik van plan o
 Wanneer er wederzijds een like is uitgedeeld, ontstaat er een zo genoemde “match”, dat ervoor zorgt dat gebruiker contact met elkaar kunnen opnemen door middel van een berichtje. Dit is alleen mogelijk bij het hebben van een match.
 Na het behalen van een match, worden beide profielen wederzijds geheel zichtbaar en is het nu dus ook mogelijk om elkaar profielfoto’s te kunnen bekijken. Dit is alleen mogelijk bij het hebben van een match (Stoel draait om; ‘Voice of Holland’)…
 
+
+
+
+
+
+
 ### Overzicht van de belangrijkste code bestanden/mappen:
 ```
 - view/index.ejs
