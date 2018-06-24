@@ -29,9 +29,6 @@ Wanneer er wederzijds een like is uitgedeeld, ontstaat er een zo genoemde “mat
 Na het behalen van een match, worden beide profielen wederzijds geheel zichtbaar en is het nu dus ook mogelijk om elkaar profielfoto’s te kunnen bekijken. Dit is alleen mogelijk bij het hebben van een match (Stoel draait om; ‘Voice of Holland’)…
 
 ![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/login.png)
-![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/registreer%201.png)
-![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/registreer%202.png)
-![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/registreer%203.png)
 ![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/home.png)
 ![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/berichten.png)
 ![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/chat.png)
