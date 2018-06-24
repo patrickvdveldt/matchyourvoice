@@ -2,13 +2,22 @@
 ### Patrick van der Veldt - 500763654
 
 ### Installatie:
-Fork dit project, cd het in je terminal, en....
+```
+git clone https://github.com/patrickvdveldt/be-assessment-2.git
+```
 ```
 - npm install
 - npm run build
 - npm start
 - localhost:3000
 ```
+
+Installeer de onderstaande pakketten:
+- [Express](https://github.com/expressjs/express)
+- [Multer](https://github.com/expressjs/multer)
+- [MySQL](https://github.com/mysqljs/mysql)
+- [Express-Session](https://github.com/expressjs/session)
+- [Body Parser](https://github.com/expressjs/body-parser)
 
 ### Match Your Voice onderbouwing:
 Match Your Voice is al het ware een mengelmoes van Tinder en The Voice of Holland.
@@ -41,9 +50,10 @@ Na het behalen van een match, worden beide profielen wederzijds geheel zichtbaar
 - [x] MYSQL DATABASE
 - [x] INLOGGEN
 - [x] REGISTREREN
-- [ ] FILE UPLOAD
-- [ ] MATCHEN
-- [ ] README
+- [x] PROFIEL AANPASSEN
+- [x] FILE UPLOAD
+- [x] MATCHEN
+- [x] README
 
 
 
