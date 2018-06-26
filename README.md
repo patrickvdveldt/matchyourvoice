@@ -3,7 +3,11 @@
 
 ### Installatie:
 ```
-git clone https://github.com/patrickvdveldt/be-assessment-2.git
+- Open je terminal
+- Open je map waar je Match Your Voice wilt installeren
+```
+```
+- git clone https://github.com/patrickvdveldt/be-assessment-2.git
 ```
 ```
 - npm install
@@ -12,7 +16,46 @@ git clone https://github.com/patrickvdveldt/be-assessment-2.git
 - localhost:3000
 ```
 
-Installeer de onderstaande pakketten:
+Voor Match Your Voice heb ik een MySQL database gebruikt. Na het volledig instaleren van MySQL moet er nu een tabel worden aangemaakt. Dat doe je d.m.v. de volgende stappen:
+- Open een nieuw tabblad in je terminal
+- Login in MySQL met:   
+```
+mysql -u root -p
+```
+- Maak een database aan d.m.v. de onderstaande code:
+```
+CREATE DATABASE IF NOT EXISTS matchyourvoice;
+```
+- Open de zojuist aangemaakte database d.m.v. de onderstande code:
+```
+USE matchyourvoice;
+```
+- We hebben zojuist een database aangemaakt. Nu moet er daarin een tabel worden aangemaakt met de bijpassende rijen en kolommen. Dat doe je d.m.v de onderstaande code:
+```
+CREATE TABLE IF NOT EXISTS person (
+id INT NOT NULL AUTO_INCREMENT,
+naam TEXT CHARACTER SET utf8,
+wachtwoord TEXT CHARACTER SET utf8,
+email TEXT CHARACTER SET utf8,
+leeftijd TEXT CHARACTER SET utf8,
+geslacht TEXT CHARACTER SET utf8,
+email TEXT CHARACTER SET utf8,
+geslachtkeuze TEXT CHARACTER SET utf8,
+maxafstand TEXT CHARACTER SET utf8,
+maxleeftijd TEXT CHARACTER SET utf8,
+burgelijkestaat TEXT CHARACTER SET utf8,
+postuur TEXT CHARACTER SET utf8,
+images TEXT CHARACTER SET utf8,
+spraakmemo TEXT CHARACTER SET utf8,
+PRIMARY KEY (id)
+);
+```
+- Je hebt zojuist een tabel aangemaakt. Je kan hem nu ook bekijken d.m.v. de onderstande code:
+```
+SELECT * FROM person;
+```
+
+### De onderstaande pakketten zijn gebruikt:
 - [Express](https://github.com/expressjs/express)
 - [Multer](https://github.com/expressjs/multer)
 - [MySQL](https://github.com/mysqljs/mysql)
