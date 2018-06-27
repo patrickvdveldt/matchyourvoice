@@ -76,8 +76,10 @@ Het 1e scherm waar de gebruiker terrecht komt bij het openene van Match your Voi
 Wanneer de gebruiker al een account heeft kan hij simpel inloggen d.m.v. zijn/haar inloggegevens. Wanneer dat niet het geval is kan hij/zij gemakkelijk een account aan maken dan ongeveer 2 kleine minuten zal duren.
 ![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/home.png
 Na het inloggen is dit het scherm waar de gebruiker op terrecht komt. Hier kan hij/zij gelijk opzoek gaan naar matches d.m.v. het beluisten van een aantal spraakmemo's. 
+
 ![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/berichten.png)
 Waarna de gebruiker een match heeft, is dit de pagina waar deze terug te vinden zijn. Gezamenlijk met de uitgevoerde gesprekken is dit een goede combinatie voor een pagina.
+
 ![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/chat.png)
 
 ![Image of Yaktocat](https://github.com/patrickvdveldt/matchyourvoice/blob/master/db/image/profiel.png)
